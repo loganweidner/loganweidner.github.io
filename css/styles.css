@@ -60,7 +60,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #212529;
+  --bs-body-color: #e1e4e7;
   --bs-body-bg: #fff;
 }
 
@@ -11287,6 +11287,6 @@ textarea.form-control-lg {
   }
 }
 body {
-  background: url("https://dummyimage.com/1920x1080/dee2e6/6c757d.jpg") no-repeat center center fixed;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/6/63/Waterfront_Park_%28Seattle%29.jpg") no-repeat center center fixed;
   background-size: cover;
 }
