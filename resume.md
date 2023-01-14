@@ -2,11 +2,11 @@
 
 weidner1@uw.edu
 
-https://loganweidner.github.io
+[Geog Projects](https://loganweidner.github.io)
 
 # Summary
 
-Geography: Data Science undergraduate at University of Washington.
+> Geography: Data Science undergraduate at University of Washington.
 
 # Work Experience (only last 10 years)
 
